@@ -6,14 +6,12 @@
   margin: 0;
   padding: 0;
 }
-
 form {
   padding: 10px;
   width: 80%;
   display: flex;
   flex-direction: column;
 }
-
 input {
   margin-bottom: 15px;
   padding: 10px 20px;
@@ -21,11 +19,9 @@ input {
   outline: none;
   border: 1px solid #ddd;
 }
-
 h3 {
   margin: 15px 0;
 }
-
 button {
   padding: 15px;
   cursor: pointer;
@@ -37,7 +33,6 @@ button {
   font-weight: bold;
   border-radius: 3px;
 }
-
 .app {
   min-height: 100vh;
   display: flex;
@@ -46,46 +41,37 @@ button {
   justify-content: center;
   padding: 30px;
 }
-
 .app > p {
   margin-bottom: 30px;
 }
-
 .nestedContainer {
   display: flex;
   align-items: center;
   justify-content: space-between;
   width: 100%;
 }
-
 .companies {
   display: flex;
   flex-direction: column;
   width: 39%;
 }
-
 .currentInput {
   width: 95%;
 }
-
 #photo {
   width: 50%;
 }
-
 #addBtn {
   background-color: green;
   margin-right: 5px;
 }
-
 #deleteBtn {
   background-color: red;
 }
-
 .container {
   min-height: 100vh;
   padding: 30px;
 }
-
 .header {
   width: 80%;
   margin: 0 auto;
@@ -97,22 +83,18 @@ button {
   align-items: center;
   justify-content: space-between;
 }
-
 .resumeTitle {
   opacity: 0.6;
 }
-
 .headerTitle {
   margin-bottom: 15px;
 }
-
 .resumeImage {
   vertical-align: middle;
   width: 150px;
   height: 150px;
   border-radius: 50%;
 }
-
 .resumeBody {
   width: 80%;
   margin: 0 auto;
@@ -120,11 +102,9 @@ button {
   min-height: 80vh;
   border: 1px solid #e0e0ea;
 }
-
 .resumeBodyTitle {
   margin-bottom: 5px;
 }
-
 .resumeBodyContent {
   text-align: justify;
   margin-bottom: 30px;
